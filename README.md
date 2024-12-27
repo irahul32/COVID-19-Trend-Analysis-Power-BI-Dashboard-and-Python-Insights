@@ -4,14 +4,10 @@ Developed an interactive COVID-19 dashboard using Power BI and performed EDA usi
 
 <table>
     <tr>
-        <td><img src="https://github.com/irahul32/Bank-Loan-Report/blob/main/Sample%20screenshots/summary.png" alt="Summary Dashboard" width="300"/></td>
-        <td><img src="https://github.com/irahul32/Bank-Loan-Report/blob/main/Sample%20screenshots/overview.png" alt="Overview Dashboard" width="300"/></td>
-        <td><img src="https://github.com/irahul32/Bank-Loan-Report/blob/main/Sample%20screenshots/details.png" alt="Details Dashboard" width="300"/></td>
-    </tr>
-    <tr>
-        <td align="center"><b>Summary Dashboard</b></td>
-        <td align="center"><b>Overview Dashboard</b></td>
-        <td align="center"><b>Details Dashboard</b></td>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/newcases.png" alt="new cases" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/deaths.png" alt="deaths" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/Vacc over regions.png" alt="Vacc over regions" width="300"/></td>
+        <td><img src="https://github.com/irahul32/Global-COVID-19-Trends-with-Power-BI-Dashboard-and-Python-EDA/blob/main/Screesshots/Vacc over time.png" alt="Vacc over time" width="300"/></td>
     </tr>
 </table>
 
