@@ -1,5 +1,5 @@
-# Global COVID-19 Trends with: Power BI Dashboard and Python EDA
-Developed an interactive COVID-19 dashboard using Power BI and performed EDA using python to visualize global and country-specific data on cases, deaths, and vaccinations from 2020 to 2024. Dashboard Features include total cases and death analysis, temporal and regional analysis, and detailed vaccination insights, providing stakeholders with crucial information for informed decision-making. Extracted, transformed, and loaded (ETL) raw COVID-19 data obtained from WHO databases, ensuring data accuracy and consistency.
+# COVID-19 Trend Analysis: Power BI Dashboard and Python Insights
+This project features an interactive Power BI dashboard visualizing global and country-specific COVID-19 trends from 2020-2024, encompassing cases, deaths, and vaccinations. I performed Exploratory Data Analysis (EDA) using Python to extract key insights and drive data-driven visualizations. The dashboard provides stakeholders with comprehensive analyses including total cases and deaths, temporal and regional trends, and vaccination insights to support informed decision-making. Raw COVID-19 data from WHO databases was processed using an Extract, Transform, and Load (ETL) pipeline to ensure data accuracy and consistency.
 - [➥ Live Demo](https://app.powerbi.com/view?r=eyJrIjoiYmUwMTU4ZTMtYjRiMy00NGE0LTk0YmMtZDdhYmE0OTU1ZTRkIiwidCI6IjNjYWNjYzA2LTY3ZmEtNDdjZS05YzVhLTIyNDM2OWUxNzZlMyJ9)
 
 <table>
